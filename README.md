@@ -46,6 +46,7 @@
 
 * Provinsi Jawa Timur
   * Kota Surabaya
+  * Kota Batu
 
 ## PULAU BALI
 * Provinsi Bali
